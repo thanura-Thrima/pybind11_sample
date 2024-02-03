@@ -1,4 +1,4 @@
-% Pybind11 example for running python scripts from c++
+# Pybind11 example for running python scripts from c++
 
 ## Introduction:
 This example contain CMakelist.txt dependancies required to link pybind11 in c++. The project demostrate most simplest
